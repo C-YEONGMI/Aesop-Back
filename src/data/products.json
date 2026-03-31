@@ -1,0 +1,2986 @@
+{
+  "products": [
+    {
+        "newestId": 2,
+        "category": "SKIN CARE",
+        "name": "루센트 페이셜 나이트 마스크",
+        "description": "건성, 수분 부족 피부, 칙칙한 각질 피부, 여행을 자주 하는 피부에 이상적",
+        "variants": [
+            {
+                "capacity": "60mL",
+                "price": 172000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwd34d3c3d/images/products/SK67/4936968889721/4936968889721_1.png"
+            }
+        ],
+        "badge": ["New"],
+        "status": true,
+        "popularId": 57,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Serums & masks"
+            }
+        ]
+    },
+    {
+        "newestId": 72,
+        "category": "SKIN CARE",
+        "name": "퓨리파잉 페이셜 엑스폴리언트 페이스트",
+        "description": "건성 피부, 여행을 자주 하거나 면도를 하는 피부, 겨울 및 쌀쌀한 날씨의 피부에 이상적",
+        "variants": [
+            {
+                "capacity": "75 mL",
+                "price": 75000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwc132ad8d/images/products/SK33/Aesop_Skin_Purifying_Facial_Exfoliant_Paste_Web_75mL_Front_A_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 88,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Serums & masks"
+            }
+        ]
+    },
+    {
+        "newestId": 107,
+        "category": "SKIN CARE",
+        "name": "시킹 사일런스 페이셜 하이드레이터",
+        "description": "민감성 피부",
+        "variants": [
+            {
+                "capacity": "60 mL",
+                "price": 79000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwc1eb4af1/images/products/SK64/Aesop_Skin_Seeking_Silence_Facial_Hydrator_60mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 54,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Moisturisers"
+            }
+        ]
+    },
+    {
+        "newestId": 100,
+        "category": "SKIN CARE",
+        "name": "비 트리플 씨 페이셜 밸런싱 젤",
+        "description": "복합성, 지성, 각질 피부, 온난하고 습한 날씨의 피부",
+        "variants": [
+            {
+                "capacity": "60 mL",
+                "price": 170000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwdce2b412/images/products/SK25/Aesop_Skin_B_Triple_C_Facial_Balancing_Gel_Web_60mL_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 103,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Moisturisers"
+            }
+        ]
+    },
+    {
+        "newestId": 1,
+        "category": "SKIN CARE",
+        "name": "레졸루트 페이셜 컨센트레이트",
+        "description": "견고하게 쌓여가는 피부의 힘",
+        "variants": [
+            {
+                "capacity": "60mL",
+                "price": 146000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw697cb77d/images/skin-care-kits/SK76/4936968889332/Aesop_Skin_Resolute_Facial_Concentrate_25mL_NGL_2000x2000px.png"
+            },
+            {
+                "capacity": "25mL",
+                "price": 146000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw697cb77d/images/skin-care-kits/SK76/4936968889332/Aesop_Skin_Resolute_Facial_Concentrate_25mL_NGL_2000x2000px.png"
+            }
+        ],
+        "badge": ["New"],
+        "status": true,
+        "popularId": 56,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Serums & masks"
+            }
+        ]
+    },
+    {
+        "newestId": 98,
+        "category": "SKIN CARE",
+        "name": "카멜리아 너트 페이셜 하이드레이팅 크림",
+        "description": "중성, 건성, 민감성 피부",
+        "variants": [
+            {
+                "capacity": "60 mL",
+                "price": 69000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwd6c6f68a/images/products/SK11/Aesop_Skin_Camelia_Nut_Facial_Hydrating_Cream_60mL_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 52,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Moisturisers"
+            }
+        ]
+    },
+    {
+        "newestId": 22,
+        "category": "HAIR & SHAVING",
+        "name": "모로칸 네롤리 쉐이빙 세럼",
+        "description": "깔끔한 쉐이빙을 위한 세럼",
+        "variants": [
+            {
+                "capacity": "60 mL",
+                "price": 55000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw1d88ffc7/images/products/SK26/Aesop_Skin_Moroccan_Neroli_Shaving_Serum_60mL_Web_Front_2000x2000px.png"
+            },
+            {
+                "capacity": "100 mL",
+                "price": 55000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw1d88ffc7/images/products/SK26/Aesop_Skin_Moroccan_Neroli_Shaving_Serum_60mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["New"],
+        "status": true,
+        "popularId": 65,
+        "classifications": [
+            {
+                "category": "Hair & shaving",
+                "subcategory": "Shaving"
+            }
+        ]
+    },
+    {
+        "newestId": 73,
+        "category": "SKIN CARE",
+        "name": "카모마일 컨센트레이트 안티 블레미쉬 마스크",
+        "description": "문제성 피부",
+        "variants": [
+            {
+                "capacity": "60 mL",
+                "price": 61000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwa6916cd1/images/products/SK17/Aesop_Skin_Chamomile_Concentrate_Anti-Blemish_Masque_60mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 89,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Serums & masks"
+            }
+        ]
+    },
+    {
+        "newestId": 8,
+        "category": "SKIN CARE",
+        "name": "루센트 페이셜 리파이너",
+        "description": "중성 피부, 건성 피부, 수분이 부족한 피부, 칙칙한 피부, 노화 피부",
+        "variants": [
+            {
+                "capacity": "60 mL",
+                "price": 115000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw2f09103f/images/products/SK75/Aesop_Skin_Lucent_Facial_Refiner_60ml_Web_Back_Large_730x730.png"
+            }
+        ],
+        "badge": ["New"],
+        "status": true,
+        "popularId": 36,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Serums & masks"
+            }
+        ]
+    },
+    {
+        "newestId": 17,
+        "category": "SKIN CARE",
+        "name": "프로텍티브 페이셜 선로션 SPF50+",
+        "description": "대부분의 피부 타입에 이상적",
+        "variants": [
+            {
+                "capacity": "50 mL",
+                "price": 83000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dwa86b8815/images/products/SK68/Aesop_Skin_Protective_Facial_Lotion_SPF50_50mL_NGL_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["New"],
+        "status": true,
+        "popularId": 38,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Sun care"
+            }
+        ]
+    },
+    {
+        "newestId": 43,
+        "category": "SKIN CARE",
+        "name": "페뷸러스 페이스 클렌저",
+        "description": "중성, 복합성 피부, 더운 계절의 건성 피부에 이상적",
+        "variants": [
+            {
+                "capacity": "100 mL",
+                "price": 42000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwc13a52d6/images/products/SK13/Aesop_Skin_Fabulous_Face_Cleanser_100mL_Web_Front_2000x2000px.png"
+            },
+            {
+                "capacity": "200 mL",
+                "price": 42000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwc13a52d6/images/products/SK13/Aesop_Skin_Fabulous_Face_Cleanser_100mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 73,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Cleansers"
+            }
+        ]
+    },
+    {
+        "newestId": 42,
+        "category": "SKIN CARE",
+        "name": "파슬리 씨드 페이셜 클렌저",
+        "description": "중성, 복합성, 문제성 피부",
+        "variants": [
+            {
+                "capacity": "100 mL",
+                "price": 75000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw920a3771/images/products/SK45/Aesop_Skin_Parsley_Seed_Facial_Cleanser_200mL_Web_Front_2000x2000px.png"
+            },
+            {
+                "capacity": "200 mL",
+                "price": 75000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw920a3771/images/products/SK45/Aesop_Skin_Parsley_Seed_Facial_Cleanser_200mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["Best"],
+        "status": false,
+        "popularId": 15,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Cleansers"
+            }
+        ]
+    },
+    {
+        "newestId": 74,
+        "category": "SKIN CARE",
+        "name": "블루 카모마일 페이셜 하이드레이팅 마스크",
+        "description": "건성, 수분 부족 피부, 여행을 자주 하는 피부에 이상적",
+        "variants": [
+            {
+                "capacity": "60 mL",
+                "price": 83000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwee4fbbd4/images/products/SK59/Aesop_Skin_Blue_Chamomile_Facial_Hydrating_Masque_60mL_Web_Front_A_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 90,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Serums & masks"
+            }
+        ]
+    },
+    {
+        "newestId": 65,
+        "category": "HAIR & SHAVING",
+        "name": "더블-엣지 레이저 블레이드",
+        "description": "빈틈없는 쉐이빙을 도와주는 레이저 블레이드",
+        "variants": [
+            {
+                "capacity": "쉐이빙 액세서리",
+                "price": 36000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwcdfbf3d2/images/products/ASH06/Aesop_Skin_Double-Edge_Razor_Blades_Rotated_Back_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 83,
+        "classifications": [
+            {
+                "category": "Hair & shaving",
+                "subcategory": "Shaving"
+            }
+        ]
+    },
+    {
+        "newestId": 56,
+        "category": "SKIN CARE",
+        "name": "프로텍티브 립 밤 SPF30",
+        "description": "대부분의 피부 타입에 이상적",
+        "variants": [
+            {
+                "capacity": "5.5g",
+                "price": 29000,
+                "image": "/src/assets/Protective Lip Balm SPF30.png"
+            }
+        ],
+        "badge": ["Best"],
+        "status": true,
+        "popularId": 5,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Lip & eye care"
+            },
+            {
+                "category": "Skin care",
+                "subcategory": "Sun care"
+            }
+        ]
+    },
+    {
+        "newestId": 104,
+        "category": "SKIN CARE",
+        "name": "라이트웨이트 페이셜 하이드레이팅 세럼",
+        "description": "지성, 복합성, 민감성 피부, 여름 및 온난하고 습한 날씨의 피부에 이상적",
+        "variants": [
+            {
+                "capacity": "100 mL",
+                "price": 95000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwf25bed38/images/products/SK20/Aesop_Skin_Lightweight_Facial_Hydrating_Serum_100mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 105,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Serums & masks"
+            }
+        ]
+    },
+    {
+        "newestId": 40,
+        "category": "SKIN CARE",
+        "name": "인 투 마인즈 페이셜 클렌저",
+        "description": "복합성 피부",
+        "variants": [
+            {
+                "capacity": "100 mL",
+                "price": 42000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw7e26cd80/images/products/SK61/Aesop_Skin_In_Two_Minds_Facial_Cleanser_100mL_Web_Front_2000x2000px.png"
+            },
+            {
+                "capacity": "200 mL",
+                "price": 42000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw7e26cd80/images/products/SK61/Aesop_Skin_In_Two_Minds_Facial_Cleanser_100mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 71,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Cleansers"
+            }
+        ]
+    },
+    {
+        "newestId": 59,
+        "category": "HAND & BODY",
+        "name": "프로텍티브 바디 선로션 SPF50",
+        "description": "광범위한 스펙트럼의 자외선(UVA와 UVB)을 차단하는 가벼운 로션",
+        "variants": [
+            {
+                "capacity": "150 mL",
+                "price": 56000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwbb54e3cd/images/products/BM15/Aesop_Body_Protective_Body_Lotion_SPF50_AU_NZ_150mL_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 80,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Sun care"
+            },
+            {
+                "category": "Hand & body",
+                "subcategory": "Body balms & oils"
+            }
+        ]
+    },
+    {
+        "newestId": 96,
+        "category": "SKIN CARE",
+        "name": "퍼펙트 페이셜 하이드레이팅 크림",
+        "description": "중성, 건성 피부, 겨울 및 쌀쌀한 날씨의 피부에 이상적",
+        "variants": [
+            {
+                "capacity": "60 mL",
+                "price": 161000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwa358cf7f/images/products/SK38/Aesop_Skin_Perfect_Facial_Hydrating_Cream_60mL_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 101,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Moisturisers"
+            }
+        ]
+    },
+    {
+        "newestId": 105,
+        "category": "SKIN CARE",
+        "name": "파슬리 씨드 안티 옥시던트 하이드레이터",
+        "description": "중성, 건성, 복합성 피부에 이상적",
+        "variants": [
+            {
+                "capacity": "60 mL",
+                "price": 85000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw629e43a5/images/products/SK48/Aesop_Skin_Parsley_Seed_Anti-Oxidant_Hydrator_60mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 106,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Moisturisers"
+            }
+        ]
+    },
+    {
+        "newestId": 15,
+        "category": "SKIN CARE",
+        "name": "이매큘레이트 페이셜 토닉",
+        "description": "수분 공급 및 각질 제거에 효과적인 비타민이 풍부한 토닉",
+        "variants": [
+            {
+                "capacity": "100 mL",
+                "price": 69000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw449a9d05/images/products/SK71/Aesop_Skin_Immaculate_Facial_Tonic_Facial_Tonic_100mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["New"],
+        "status": true,
+        "popularId": 37,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Toners & mists"
+            }
+        ]
+    },
+    {
+        "newestId": 102,
+        "category": "SKIN CARE",
+        "name": "파슬리 씨드 안티 옥시던트 인텐스 세럼",
+        "description": "중성, 복합성, 민감성 피부, 도시 생활자의 피부, 덥고 습한 날씨의 피부에 이상적",
+        "variants": [
+            {
+                "capacity": "60 mL",
+                "price": 117000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwc3be4392/images/products/SK69/Aesop_Skin_Parsley_Seed_Anti-Oxidant_Intense_Serum_Refill_60mL_Front_2000x2000px.png"
+            },
+            {
+                "capacity": "60 mL refill",
+                "price": 117000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwc3be4392/images/products/SK69/Aesop_Skin_Parsley_Seed_Anti-Oxidant_Intense_Serum_Refill_60mL_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 34,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Serums & masks"
+            }
+        ]
+    },
+    {
+        "newestId": 92,
+        "category": "SKIN CARE",
+        "name": "파슬리 씨드 안티 옥시던트 페이셜 트리트먼트",
+        "description": "대부분의 피부 타입, 도시 생활자의 피부에 이상적",
+        "variants": [
+            {
+                "capacity": "15 mL",
+                "price": 74000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwb8bf087d/images/products/SK41/Aesop_Skin_Parsley_Seed_Anti-Oxidant_Facial_Treatment_15mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": false,
+        "popularId": 97,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Serums & masks"
+            }
+        ]
+    },
+    {
+        "newestId": 21,
+        "category": "SKIN CARE",
+        "name": "이그절티드 아이 세럼",
+        "description": "민감성, 노화, 수분 부족 피부, 칙칙한 각질 피부에 이상적",
+        "variants": [
+            {
+                "capacity": "15 mL",
+                "price": 135000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwcabcad12/images/products/SK70/Aesop_Skin_Exalted_Eye_Serum_15mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["New"],
+        "status": true,
+        "popularId": 64,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Lip & eye care"
+            }
+        ]
+    },
+    {
+        "newestId": 83,
+        "category": "HAND & BODY",
+        "name": "페티그레인 리바이빙 바디 애프터 선젤",
+        "description": "신속하게 흡수되며 끈적이지 않는 마무리",
+        "variants": [
+            {
+                "capacity": "150 mL",
+                "price": 51000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwd1aede44/images/products/BM16/Aesop_Body_Petitgrain_Reviving_Body_Gel_150mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 92,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Sun care"
+            },
+            {
+                "category": "Hand & body",
+                "subcategory": "Body balms & oils"
+            }
+        ]
+    },
+    {
+        "newestId": 95,
+        "category": "SKIN CARE",
+        "name": "파슬리 씨드 안티 옥시던트 아이 크림",
+        "description": "대부분의 피부 타입, 특히 건성 피부에 이상적",
+        "variants": [
+            {
+                "capacity": "10 mL",
+                "price": 99000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw91c2d28e/images/products/SK21/Aesop_Skin_Parsley_Seed_Anti-Oxidant_Eye_Cream_10mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": false,
+        "popularId": 100,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Lip & eye care"
+            }
+        ]
+    },
+    {
+        "newestId": 28,
+        "category": "KITS",
+        "name": "밸런스: 클래식 스킨 케어 키트",
+        "description": "복합성 피부를 위한 균형 잡힌 구성",
+        "variants": [
+            {
+                "capacity": "키트",
+                "price": 143000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwa9c6bda4/images/products/APB251/Aesop_Kits_Balance_Classic_Skin_Care_Kit_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["New"],
+        "status": true,
+        "popularId": 67,
+        "classifications": [
+            {
+                "category": "Kits",
+                "subcategory": "Skin care kits"
+            }
+        ]
+    },
+    {
+        "newestId": 89,
+        "category": "SKIN CARE",
+        "name": "파슬리 씨드 클렌징 마스크",
+        "description": "대부분의 피부 타입, 특히 건성 피부에 이상적",
+        "variants": [
+            {
+                "capacity": "60 mL",
+                "price": 74000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwf8a37d15/images/products/SK31/Aesop_Skin_Parsley_Seed_Cleansing_Masque_60mL_Web_Front_A_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 50,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Cleansers"
+            }
+        ]
+    },
+    {
+        "newestId": 101,
+        "category": "SKIN CARE",
+        "name": "만다린 페이셜 하이드레이팅 크림",
+        "description": "중성 및 복합성 피부, 추운 기후의 지성 피부",
+        "variants": [
+            {
+                "capacity": "60 mL",
+                "price": 69000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwf2fea7d3/images/products/SK03/Aesop_Skin_Mandarin_Facial_Hydrating_Cream_60mL_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 53,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Moisturisers"
+            }
+        ]
+    },
+    {
+        "newestId": 91,
+        "category": "SKIN CARE",
+        "name": "페뷸러스 페이스 오일",
+        "description": "중성, 칙칙한 각질 피부에 이상적",
+        "variants": [
+            {
+                "capacity": "25 mL",
+                "price": 79000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwfaa4a445/images/products/SK09/Aesop_Skin_Fabulous_Face_Oil_25mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 33,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Moisturisers"
+            }
+        ]
+    },
+    {
+        "newestId": 57,
+        "category": "SKIN CARE",
+        "name": "시더 & 시트러스 립 살브",
+        "description": "대부분의 피부 타입, 특히 건조하고 갈라진 입술에 이상적",
+        "variants": [
+            {
+                "capacity": "9 mL",
+                "price": 29000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw7faa358c/images/products/SK66/Aesop_Skin_Cedar_&_Citrus_Lip_Salve_9mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 78,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Lip & eye care"
+            }
+        ]
+    },
+    {
+        "newestId": 58,
+        "category": "SKIN CARE",
+        "name": "프로텍티브 페이셜 선로션 SPF30",
+        "description": "대부분의 피부 타입에 이상적",
+        "variants": [
+            {
+                "capacity": "50 mL",
+                "price": 79000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dwb9fb8772/images/products/SK55/Aesop_Skin_Protective_Facial_Lotion_SPF50_25mL_NGL_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 79,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Sun care"
+            }
+        ]
+    },
+    {
+        "newestId": 90,
+        "category": "SKIN CARE",
+        "name": "파슬리 씨드 페이셜 클렌징 오일",
+        "description": "건성, 복합성, 민감성 피부에 이상적",
+        "variants": [
+            {
+                "capacity": "200 mL",
+                "price": 74000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwa997485c/images/products/SK39/Aesop_Skin_Parsley_Seed_Facial_Cleansing_Oil_200mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 96,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Cleansers"
+            }
+        ]
+    },
+    {
+        "newestId": 26,
+        "category": "KITS",
+        "name": "퀜치: 클래식 스킨 케어 키트",
+        "description": "건성 피부를 위한 충분한 수분 공급",
+        "variants": [
+            {
+                "capacity": "키트",
+                "price": 137000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwaf38846c/images/products/APB250/9319944068214-Aesop_Kits_Quench_Classic_Skin_Care_Kit_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["New"],
+        "status": true,
+        "popularId": 40,
+        "classifications": [
+            {
+                "category": "Kits",
+                "subcategory": "Skin care kits"
+            }
+        ]
+    },
+    {
+        "newestId": 32,
+        "category": "SKIN CARE",
+        "name": "비 앤 티 밸런싱 토너",
+        "description": "민감성 피부를 포함한 대부분의 피부 타입에 이상적",
+        "variants": [
+            {
+                "capacity": "100 mL",
+                "price": 70000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwe5cab563/images/products/SK42/Aesop_Skin_B_&_Tea_Balancing_Toner_200mL_Web_Front_2000x2000px.png"
+            },
+            {
+                "capacity": "200 mL",
+                "price": 70000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwe5cab563/images/products/SK42/Aesop_Skin_B_&_Tea_Balancing_Toner_200mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": false,
+        "popularId": 69,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Toners & mists"
+            }
+        ]
+    },
+    {
+        "newestId": 97,
+        "category": "SKIN CARE",
+        "name": "파슬리 씨드 안티 옥시던트 페이셜 하이드레이팅 크림",
+        "description": "대부분의 피부 타입, 특히 건성 피부에 이상적",
+        "variants": [
+            {
+                "capacity": "60 mL",
+                "price": 95000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw56112a3f/images/products/SK54/Aesop_Skin_Parsley_Seed_Anti-Oxidant_Facial_Hydrating_Cream_60mL_Front.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 51,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Moisturisers"
+            }
+        ]
+    },
+    {
+        "newestId": 44,
+        "category": "SKIN CARE",
+        "name": "젠틀 페이셜 클렌징 밀크",
+        "description": "건성, 민감성 피부에 이상적",
+        "variants": [
+            {
+                "capacity": "100 mL",
+                "price": 69000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw38be2658/images/products/SK65/Aesop_Skin_Gentle_Facial_Cleansing_Milk_200mL_Web_Front_2000x2000px.png"
+            },
+            {
+                "capacity": "200 mL",
+                "price": 69000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw38be2658/images/products/SK65/Aesop_Skin_Gentle_Facial_Cleansing_Milk_200mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["Best"],
+        "status": true,
+        "popularId": 27,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Cleansers"
+            }
+        ]
+    },
+    {
+        "newestId": 33,
+        "category": "SKIN CARE",
+        "name": "인 투 마인즈 페이셜 토너",
+        "description": "복합성 피부에 이상적",
+        "variants": [
+            {
+                "capacity": "100 mL",
+                "price": 47000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw43e204bd/images/products/SK62/Aesop_Skin_In_Two_Minds_Facial_Toner_100mL_Web_Front_2000x2000px.png"
+            },
+            {
+                "capacity": "200 mL",
+                "price": 47000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw43e204bd/images/products/SK62/Aesop_Skin_In_Two_Minds_Facial_Toner_100mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 42,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Toners & mists"
+            }
+        ]
+    },
+    {
+        "newestId": 41,
+        "category": "SKIN CARE",
+        "name": "어메이징 페이스 클렌저",
+        "description": "지성, 복합성, 넓은 모공 피부, 온난하고 습한 날씨의 피부에 이상적",
+        "variants": [
+            {
+                "capacity": "100 mL",
+                "price": 65000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw10ee4e16/images/products/SK08/Aesop_Skin_Amazing_Face_Cleanser_200mL_Web_Front_2000x2000px.png"
+            },
+            {
+                "capacity": "200 mL",
+                "price": 65000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw10ee4e16/images/products/SK08/Aesop_Skin_Amazing_Face_Cleanser_200mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": false,
+        "popularId": 72,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Cleansers"
+            }
+        ]
+    },
+    {
+        "newestId": 10,
+        "category": "SKIN CARE",
+        "name": "루센트 페이셜 컨센트레이트",
+        "description": "대부분의 피부 타입에 이상적",
+        "variants": [
+            {
+                "capacity": "60 mL",
+                "price": 169000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw1ff89b53/images/products/SK60/Aesop_Skin_Lucent_Facial_Concentrate_100mL_Web_Front_Large_920x920px.png"
+            },
+            {
+                "capacity": "100 mL",
+                "price": 169000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw1ff89b53/images/products/SK60/Aesop_Skin_Lucent_Facial_Concentrate_100mL_Web_Front_Large_920x920px.png"
+            }
+        ],
+        "badge": ["New"],
+        "status": true,
+        "popularId": 60,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Serums & masks"
+            }
+        ]
+    },
+    {
+        "newestId": 99,
+        "category": "SKIN CARE",
+        "name": "엘레멘탈 페이셜 배리어 크림",
+        "description": "건성, 수분 부족, 민감성 피부, 춥고 혹독한 날씨의 피부에 이상적",
+        "variants": [
+            {
+                "capacity": "60 mL",
+                "price": 81000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw5ceed7e7/images/products/SK53/Aesop_Skin_Elemental_Facial_Barrier_Cream_60mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": false,
+        "popularId": 102,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Moisturisers"
+            }
+        ]
+    },
+    {
+        "newestId": 34,
+        "category": "SKIN CARE",
+        "name": "파슬리 씨드 안티 옥시던트 페이셜 토너",
+        "description": "건성, 심하지 않은 민감성 피부를 포함한 대부분의 피부 타입에 이상적",
+        "variants": [
+            {
+                "capacity": "100 mL",
+                "price": 50000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw3fb34c33/images/products/SK18/Aesop_Skin_Parsley_Seed_Anti-Oxidant_Facial_Toner_100mL_Web_Front_2000x2000px.png"
+            },
+            {
+                "capacity": "200 mL",
+                "price": 50000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw3fb34c33/images/products/SK18/Aesop_Skin_Parsley_Seed_Anti-Oxidant_Facial_Toner_100mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": false,
+        "popularId": 55,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Toners & mists"
+            }
+        ]
+    },
+    {
+        "category": "SKIN CARE",
+        "name": "비터 오렌지 아스트린젠트 토너",
+        "description": "지성 피부, 덥고 습한 날씨의 피부에 이상적",
+        "variants": [
+            {
+                "capacity": "100 mL",
+                "price": 44000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwa8b24b73/images/products/SK32/Aesop_Skin_Bitter_Orange_Astringent_Toner_100mL_Web_Front_2000x2000px.png"
+            },
+            {
+                "capacity": "200 mL",
+                "price": 44000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwa8b24b73/images/products/SK32/Aesop_Skin_Bitter_Orange_Astringent_Toner_100mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "newestId": 117,
+        "status": true,
+        "popularId": 108,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Toners & mists"
+            }
+        ]
+    },
+    {
+        "newestId": 55,
+        "category": "SKIN CARE",
+        "name": "세이지 앤 징크 페이셜 하이드레이팅 선로션 SPF15",
+        "description": "민감성 피부를 포함한 대부분의 피부 타입에 이상적",
+        "variants": [
+            {
+                "capacity": "50 mL",
+                "price": 69000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw26ffbe26/images/products/SK37/Aesop_Skin_Sage_&_Zinc_Facial_Hydrating_Lotion_SPF15_50mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 77,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Sun care"
+            }
+        ]
+    },
+    {
+        "newestId": 27,
+        "category": "KITS",
+        "name": "모로칸 네롤리 쉐이빙 듀엣",
+        "description": "정교한 쉐이빙을 위한 제품 2종",
+        "variants": [
+            {
+                "capacity": "키트",
+                "price": 116000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw986eac16/images/products/APB108/Aesop_Kits_Moroccan_Neroli_Shaving_Duet_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["New"],
+        "status": true,
+        "popularId": 66,
+        "classifications": [
+            {
+                "category": "Hair & shaving",
+                "subcategory": "Shaving"
+            },
+            {
+                "category": "Kits",
+                "subcategory": "Skin care kits"
+            }
+        ]
+    },
+    {
+        "newestId": 66,
+        "category": "HAIR & SHAVING",
+        "name": "더블 엣지 레이저",
+        "description": "그립감이 뛰어난 면도기",
+        "variants": [
+            {
+                "capacity": "쉐이빙 액세서리",
+                "price": 142000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw731fa704/images/products/ASH05/Aesop_Skin_Double-Edge_Razor_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": false,
+        "popularId": 84,
+        "classifications": [
+            {
+                "category": "Hair & shaving",
+                "subcategory": "Shaving"
+            }
+        ]
+    },
+    {
+        "newestId": 93,
+        "category": "SKIN CARE",
+        "name": "다마스칸 로즈 페이셜 트리트먼트",
+        "description": "건성, 극건성 피부, 스트레스받은 피부에 이상적",
+        "variants": [
+            {
+                "capacity": "25 mL",
+                "price": 108000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwf8c14df6/images/products/SK10/Aesop_Skin_Damascan_Rose_Facial_Treatment_25mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": false,
+        "popularId": 98,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Serums & masks"
+            }
+        ]
+    },
+    {
+        "newestId": 29,
+        "category": "KITS",
+        "name": "파슬리 씨드 안티 옥시던트 스킨 케어 키트",
+        "description": "모든 피부 타입에 적합한 파슬리 씨드 키트",
+        "variants": [
+            {
+                "capacity": "키트",
+                "price": 191000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw58a9d748/images/products/APB285/Aesop_Kits_Parsley_Seed_Anti-Oxidant_Skin_Care_Kit_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["New"],
+        "status": true,
+        "popularId": 41,
+        "classifications": [
+            {
+                "category": "Kits",
+                "subcategory": "Skin care kits"
+            }
+        ]
+    },
+    {
+        "newestId": 68,
+        "category": "HAIR & SHAVING",
+        "name": "스테인리스 스틸 보울",
+        "description": "소리 야나기(Sori Yanagi)의 디자인",
+        "variants": [
+            {
+                "capacity": "쉐이빙 액세서리",
+                "price": 36000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw19607146/images/products/ASH03/Aesop_Skin_Stainless_Steel_Bowl_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": false,
+        "popularId": 86,
+        "classifications": [
+            {
+                "category": "Hair & shaving",
+                "subcategory": "Shaving"
+            }
+        ]
+    },
+    {
+        "newestId": 103,
+        "category": "SKIN CARE",
+        "name": "컨트롤 스팟",
+        "description": "문제성 피부",
+        "variants": [
+            {
+                "capacity": "9 mL",
+                "price": 35000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw025c154b/images/products/SK46/Aesop_Skin_Control_9mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": false,
+        "popularId": 104,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Serums & masks"
+            }
+        ]
+    },
+    {
+        "newestId": 94,
+        "category": "SKIN CARE",
+        "name": "이미디에이트 모이스처 페이셜 하이드로졸",
+        "description": "모든 피부 타입, 잦은 여행자, 직장인",
+        "variants": [
+            {
+                "capacity": "50 mL",
+                "price": 30000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwc249c44f/images/products/SK07/Aesop_Skin_Immediate_Moisture_Facial_Hydrosol_50mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": false,
+        "popularId": 99,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Toners & mists"
+            }
+        ]
+    },
+    {
+        "newestId": 71,
+        "category": "SKIN CARE",
+        "name": "아이 리무브",
+        "description": "대부분의 피부 타입, 메이크업을 한 피부에 이상적",
+        "variants": [
+            {
+                "capacity": "60 mL",
+                "price": 36000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw2cc5a647/images/products/SK35/Aesop_Skin_Remove_60mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": false,
+        "popularId": 87,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Lip & eye care"
+            },
+            {
+                "category": "Skin care",
+                "subcategory": "Cleansers"
+            }
+        ]
+    },
+    {
+        "newestId": 106,
+        "category": "SKIN CARE",
+        "name": "인 투 마인즈 페이셜 하이드레이터",
+        "description": "복합성 피부",
+        "variants": [
+            {
+                "capacity": "60 mL",
+                "price": 79000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw5ac10825/images/products/SK63/Aesop_Skin_In_Two_Minds_Facial_Hydrator_60mL_Web_Front_A_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": false,
+        "popularId": 107,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Moisturisers"
+            }
+        ]
+    },
+    {
+        "newestId": 88,
+        "category": "SKIN CARE",
+        "name": "퓨리파잉 페이셜 크림 클렌저",
+        "description": "중성, 건성 피부",
+        "variants": [
+            {
+                "capacity": "100 mL",
+                "price": 45000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw1f4781e0/images/products/SK01/Aesop_Skin_Purifying_Facial_Cream_Cleanser_100mL_Web_Front_A_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 95,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Cleansers"
+            }
+        ]
+    },
+    {
+        "category": "SKIN CARE",
+        "name": "프림로즈 페이셜 하이드레이팅 크림",
+        "description": "중성 및 건성 피부, 겨울 혹은 시원한 날씨",
+        "variants": [
+            {
+                "capacity": "60 mL",
+                "price": 65000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwb7c28a8d/images/products/SK04/Aesop_Skin_Primrose_Facial_Hydrating_Cream_60mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "newestId": 118,
+        "status": true,
+        "popularId": 109,
+        "classifications": [
+            {
+                "category": "Skin care",
+                "subcategory": "Moisturisers"
+            }
+        ]
+    },
+    {
+        "newestId": 67,
+        "category": "HAIR & SHAVING",
+        "name": "쉐이빙 브러쉬",
+        "description": "안목있는 쉐이버",
+        "variants": [
+            {
+                "capacity": "쉐이빙 액세서리",
+                "price": 85000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw25e63432/images/products/ASH04/Aesop_Skin_Shaving_Brush_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": false,
+        "popularId": 85,
+        "classifications": [
+            {
+                "category": "Hair & shaving",
+                "subcategory": "Shaving"
+            }
+        ]
+    },
+    {
+        "newestId": 78,
+        "category": "HAIR & SHAVING",
+        "name": "볼류마이징 샴푸",
+        "description": "얇은, 힘없는 모발",
+        "variants": [
+            {
+                "capacity": "500 mL (펌프 포함)",
+                "price": 69000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwbe6f02e7/images/products/HR16/Aesop_Hair_Volumising_Shampoo_500mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": false,
+        "popularId": 91,
+        "classifications": [
+            {
+                "category": "Hair & shaving",
+                "subcategory": "Shampoos & conditioners"
+            }
+        ]
+    },
+    {
+        "newestId": 81,
+        "category": "HAND & BODY",
+        "name": "레저렉션 아로마틱 핸드 워시",
+        "description": "깔끔한, 거품이 적은, 젤 타입",
+        "variants": [
+            {
+                "capacity": "500 mL (펌프 포함)",
+                "price": 56000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw41e50847/images/products/BT13/Aesop_Hand_Resurrection_Aromatique_Hand_Wash_500mL_Web_Front_2000x2000px.png"
+            },
+            {
+                "capacity": "500 mL (펌프 미포함)",
+                "price": 56000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw41e50847/images/products/BT13/Aesop_Hand_Resurrection_Aromatique_Hand_Wash_500mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["Best"],
+        "status": true,
+        "popularId": 2,
+        "classifications": [
+            {
+                "category": "Hand & body",
+                "subcategory": "Hand wash & balms"
+            }
+        ]
+    },
+    {
+        "newestId": 30,
+        "category": "HAIR & SHAVING",
+        "name": "오리지널 샴푸",
+        "description": "대부분의 모발과 두피 타입에 이상적인 샴푸",
+        "variants": [
+            {
+                "capacity": "500 mL",
+                "price": 69000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dwc2fb066c/images/products/HR31/Aesop_Hair_Shampoo_500mL_Web_Front_2000x2000px.png"
+            },
+            {
+                "capacity": "500 mL (펌프 미포함)",
+                "price": 69000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dwc2fb066c/images/products/HR31/Aesop_Hair_Shampoo_500mL_Web_Front_2000x2000px.png"
+            },
+            {
+                "capacity": "100 mL",
+                "price": 69000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dwc2fb066c/images/products/HR31/Aesop_Hair_Shampoo_500mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["New", "Best"],
+        "status": true,
+        "popularId": 11,
+        "classifications": [
+            {
+                "category": "Hair & shaving",
+                "subcategory": "Shampoos & conditioners"
+            }
+        ]
+    },
+    {
+        "newestId": 77,
+        "category": "HAIR & SHAVING",
+        "name": "바이올렛 리프 헤어 밤",
+        "description": "건조한, 거친 모발, 염색이나 펌을 한 모발에 이상적인 헤어 밤",
+        "variants": [
+            {
+                "capacity": "60 mL",
+                "price": 46000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw3770c590/images/products/HR10/Aesop_Hair_Violet_Leaf_Hair_Balm_50mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 48,
+        "classifications": [
+            {
+                "category": "Hair & shaving",
+                "subcategory": "Hair styling"
+            }
+        ]
+    },
+    {
+        "newestId": 76,
+        "category": "HAIR & SHAVING",
+        "name": "세이지 앤 시더 스칼프 트리트먼트",
+        "description": "건조한, 가려운, 각질이 있는 두피",
+        "variants": [
+            {
+                "capacity": "25 mL",
+                "price": 48000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw82c7fa88/images/products/HR09/Aesop_Hair_Sage_and_Cedar_Scalp_Treatment_25mL_Web_Front_2000x2000px..png"
+            }
+        ],
+        "badge": [],
+        "status": false,
+        "popularId": 47,
+        "classifications": [
+            {
+                "category": "Hair & shaving",
+                "subcategory": "Hair treatments"
+            }
+        ]
+    },
+    {
+        "newestId": 35,
+        "category": "HAIR & SHAVING",
+        "name": "샤인 헤어 앤 비어드 오일",
+        "description": "거친, 건조한, 곱슬거리는, 두꺼운 모발",
+        "variants": [
+            {
+                "capacity": "25 mL",
+                "price": 46000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw3e60e8d2/images/products/HR25/Aesop_Hair_Shine_Hair_and_Beard_Oil_25mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 43,
+        "classifications": [
+            {
+                "category": "Hair & shaving",
+                "subcategory": "Hair treatments"
+            },
+            {
+                "category": "Hair & shaving",
+                "subcategory": "Hair styling"
+            }
+        ]
+    },
+    {
+        "newestId": 69,
+        "category": "HAIR & SHAVING",
+        "name": "테임 헤어 세럼",
+        "description": "흩날리거나 부시시한 모발",
+        "variants": [
+            {
+                "capacity": "60 mL",
+                "price": 48000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwf8030a8c/images/products/HR29/Aesop_Hair_Tame_Hair_Serum_60mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["Best"],
+        "status": true,
+        "popularId": 24,
+        "classifications": [
+            {
+                "category": "Hair & shaving",
+                "subcategory": "Hair styling"
+            },
+            {
+                "category": "Hair & shaving",
+                "subcategory": "Hair treatments"
+            }
+        ]
+    },
+    {
+        "newestId": 36,
+        "category": "HAIR & SHAVING",
+        "name": "헤어 컨디셔너",
+        "description": "본질로 돌아가는 시작",
+        "variants": [
+            {
+                "capacity": "100 mL",
+                "price": 69000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw4aee4f21/images/products/HR32/Aesop_Hair_Conditioner_500mL_Web_Front_2000x2000px.png"
+            },
+            {
+                "capacity": "500 mL",
+                "price": 69000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw4aee4f21/images/products/HR32/Aesop_Hair_Conditioner_500mL_Web_Front_2000x2000px.png"
+            },
+            {
+                "capacity": "500 mL (펌프 미포함)",
+                "price": 69000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw4aee4f21/images/products/HR32/Aesop_Hair_Conditioner_500mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["Best"],
+        "status": true,
+        "popularId": 14,
+        "classifications": [
+            {
+                "category": "Hair & shaving",
+                "subcategory": "Shampoos & conditioners"
+            },
+            {
+                "category": "Hair & shaving",
+                "subcategory": "Hair treatments"
+            }
+        ]
+    },
+    {
+        "newestId": 20,
+        "category": "HAIR & SHAVING",
+        "name": "로즈 헤어 앤 스칼프 모이스처라이징 마스크",
+        "description": "중성, 건성 모발, 연약한, 염색한, 펌을 한 모발",
+        "variants": [
+            {
+                "capacity": "120 mL",
+                "price": 50000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwe9945512/images/products/HR07/Aesop_Hair_Rose_Hair_and_Scalp_Moisturising_Masque_120mL_Web_Front_A_2000x2000px.png"
+            },
+            {
+                "capacity": "500 mL",
+                "price": 50000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwe9945512/images/products/HR07/Aesop_Hair_Rose_Hair_and_Scalp_Moisturising_Masque_120mL_Web_Front_A_2000x2000px.png"
+            }
+        ],
+        "badge": ["New"],
+        "status": true,
+        "popularId": 49,
+        "classifications": [
+            {
+                "category": "Hair & shaving",
+                "subcategory": "Hair styling"
+            },
+            {
+                "category": "Hair & shaving",
+                "subcategory": "Hair treatments"
+            }
+        ]
+    },
+    {
+        "newestId": 75,
+        "category": "HAIR & SHAVING",
+        "name": "스컬프 헤어 폴리시",
+        "description": "모든 모발 타입, 특히 젖은 모발 연출과 강력한 고정이 필요한 스타일링에 효과적",
+        "variants": [
+            {
+                "capacity": "100mL",
+                "price": 46000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw08ad9ce9/images/products/HR28/Aesop_Hair_Sculpt_Hair_Polish_100mL_Web_Front_A_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 46,
+        "classifications": [
+            {
+                "category": "Hair & shaving",
+                "subcategory": "Hair styling"
+            }
+        ]
+    },
+    {
+        "category": "Perfume",
+        "name": "마라케시 인텐스 오 드 퍼퓸",
+        "description": "클로브, 샌달우드, 카다멈",
+        "variants": [
+            {
+                "capacity": "50 mL",
+                "price": 199000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw3f5347df/images/products/FR21/Aesop_Fragrance_Marrakesh_Eau_de_Parfum_50mL_Bottle_Only_Media_Release_Transparent_1080x1080px.png"
+            },
+            {
+                "capacity": "100 mL",
+                "price": 199000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw3f5347df/images/products/FR21/Aesop_Fragrance_Marrakesh_Eau_de_Parfum_50mL_Bottle_Only_Media_Release_Transparent_1080x1080px.png"
+            }
+        ],
+        "badge": [],
+        "newestId": 108,
+        "status": true,
+        "popularId": 110,
+        "classifications": [
+            {
+                "category": "Fragrance",
+                "subcategory": "Woody"
+            }
+        ]
+    },
+    {
+        "newestId": 84,
+        "category": "Perfume",
+        "name": "휠 오 드 퍼퓸",
+        "description": "사이프러스, 프랑킨센스, 베티버",
+        "variants": [
+            {
+                "capacity": "50 mL",
+                "price": 199000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw73c5cb83/images/products/FR15/Aesop_Fragrance_Hwyl_Eau_de_Parfum_50mL_Bottle_Only_Media_Release_Transparent_1080x1080px.png"
+            },
+            {
+                "capacity": "100 mL",
+                "price": 199000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw73c5cb83/images/products/FR15/Aesop_Fragrance_Hwyl_Eau_de_Parfum_50mL_Bottle_Only_Media_Release_Transparent_1080x1080px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 93,
+        "classifications": [
+            {
+                "category": "Fragrance",
+                "subcategory": "Woody"
+            }
+        ]
+    },
+    {
+        "newestId": 85,
+        "category": "Perfume",
+        "name": "테싯 오 드 퍼퓸",
+        "description": "유자, 베티버 하트, 바질",
+        "variants": [
+            {
+                "capacity": "50 mL",
+                "price": 199000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dwe08506c2/images/products/FR12/Aesop_Fragrance_Tacit_Eau_de_Parfum_50mL_Bottle_Only_Media_Release_Transparent_1080x1080px.png"
+            },
+            {
+                "capacity": "100 mL",
+                "price": 199000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dwe08506c2/images/products/FR12/Aesop_Fragrance_Tacit_Eau_de_Parfum_50mL_Bottle_Only_Media_Release_Transparent_1080x1080px.png"
+            }
+        ],
+        "badge": ["Best"],
+        "status": true,
+        "popularId": 12,
+        "classifications": [
+            {
+                "category": "Fragrance",
+                "subcategory": "Fresh"
+            }
+        ]
+    },
+    {
+        "newestId": 7,
+        "category": "Perfume",
+        "name": "어보브 어스, 스테오라 오 드 퍼퓸",
+        "description": "카다멈, 바닐라 빈, 프랑킨센스",
+        "variants": [
+            {
+                "capacity": "50 mL",
+                "price": 225000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw30e8c758/images/products/FR32/Aesop_Fragrance_Above_Us_Steorra_50mL_Bottle_Only_Media_Release_Transparent_1080x1080px.png"
+            }
+        ],
+        "badge": ["New"],
+        "status": true,
+        "popularId": 35,
+        "classifications": [
+            {
+                "category": "Fragrance",
+                "subcategory": "Woody"
+            }
+        ]
+    },
+    {
+        "newestId": 12,
+        "category": "Perfume",
+        "name": "비레레 오 드 퍼퓸",
+        "description": "시트러스, 그린, 우디",
+        "variants": [
+            {
+                "capacity": "50 mL",
+                "price": 199000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw8e149b5d/images/products/FR29/Aesop_Fragrance_Virere_Eau_de_Parfum_50mL_Bottle_Only_Media_Release_Transparent_1080x1080px.png"
+            }
+        ],
+        "badge": ["New"],
+        "status": true,
+        "popularId": 61,
+        "classifications": [
+            {
+                "category": "Fragrance",
+                "subcategory": "Fresh"
+            }
+        ]
+    },
+    {
+        "newestId": 87,
+        "category": "Perfume",
+        "name": "로즈 오 드 퍼퓸",
+        "description": "로즈, 시소, 과이악우드",
+        "variants": [
+            {
+                "capacity": "50 mL",
+                "price": 225000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dwd5ebdc8c/images/products/FR20/Aesop_Fragrance_Rozu_Eau_de_Parfum_50mL_Bottle_Only_Media_Release_Transparent_1080x1080px.png"
+            }
+        ],
+        "badge": ["Best"],
+        "status": true,
+        "popularId": 26,
+        "classifications": [
+            {
+                "category": "Fragrance",
+                "subcategory": "Floral"
+            }
+        ]
+    },
+    {
+        "newestId": 11,
+        "category": "KITS",
+        "name": "프래그런스 앤솔러지 볼륨 I",
+        "description": "다양한 향수를 만나볼 수 있는 디스커버리 컬렉션",
+        "variants": [
+            {
+                "capacity": "키트",
+                "price": 63000,
+                "image": "/product-images/fragrance-anthology-volume-i.png"
+            }
+        ],
+        "badge": ["New", "Best"],
+        "status": true,
+        "popularId": 16,
+        "classifications": [
+            {
+                "category": "Fragrance",
+                "subcategory": "Floral"
+            },
+            {
+                "category": "Fragrance",
+                "subcategory": "Fresh"
+            },
+            {
+                "category": "Fragrance",
+                "subcategory": "Woody"
+            },
+            {
+                "category": "Fragrance",
+                "subcategory": "Opulent"
+            },
+            {
+                "category": "Kits",
+                "subcategory": "Fragrance kits"
+            }
+        ]
+    },
+    {
+        "newestId": 54,
+        "category": "Perfume",
+        "name": "이더시스 오 드 퍼퓸",
+        "description": "블랙 페퍼, 프랑킨센스, 샌달우드",
+        "variants": [
+            {
+                "capacity": "50 mL",
+                "price": 225000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw7f8b3b21/images/products/FR26/Aesop_Fragrance_Eidesis_Eau_de_Parfum_50mL_Bottle_Only_Media_Release_Transparent_1080x1080px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 44,
+        "classifications": [
+            {
+                "category": "Fragrance",
+                "subcategory": "Opulent"
+            },
+            {
+                "category": "Fragrance",
+                "subcategory": "Woody"
+            }
+        ]
+    },
+    {
+        "newestId": 9,
+        "category": "Perfume",
+        "name": "오르너 오 드 퍼퓸",
+        "description": "매그놀리아 리프, 로만 카모마일, 시더 하트",
+        "variants": [
+            {
+                "capacity": "50 mL",
+                "price": 225000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dwdb10368c/images/products/FR31/Aesop_Fragrance_Aurner_Eau_de_Parfum_50mL_Bottle_Only_Media_Release_Transparent_1080x1080px.png"
+            }
+        ],
+        "badge": ["New", "Best"],
+        "status": true,
+        "popularId": 8,
+        "classifications": [
+            {
+                "category": "Fragrance",
+                "subcategory": "Floral"
+            }
+        ]
+    },
+    {
+        "newestId": 39,
+        "category": "Perfume",
+        "name": "마라케시 인텐스 퍼퓸",
+        "description": "클로브, 샌달우드, 카다멈",
+        "variants": [
+            {
+                "capacity": "10 mL",
+                "price": 145000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dwfd1ff654/images/products/FR11/Aesop_Fragrance_Marrakech_Intense_Parfum_10mL_Vial_NGL_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 70,
+        "classifications": [
+            {
+                "category": "Fragrance",
+                "subcategory": "Opulent"
+            },
+            {
+                "category": "Fragrance",
+                "subcategory": "Woody"
+            }
+        ]
+    },
+    {
+        "category": "Perfume",
+        "name": "에레미아 오 드 퍼퓸",
+        "description": "갈바눔, 아이리스, 유자",
+        "variants": [
+            {
+                "capacity": "50 mL",
+                "price": 225000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw464083f1/images/products/FR24/Aesop_Fragrance_Eremia_Eau_de_Parfum_50mL_Bottle_Only_Media_Release_Transparent_1080x1080px.png"
+            }
+        ],
+        "badge": [],
+        "newestId": 109,
+        "status": true,
+        "popularId": 111,
+        "classifications": [
+            {
+                "category": "Fragrance",
+                "subcategory": "Fresh"
+            }
+        ]
+    },
+    {
+        "newestId": 86,
+        "category": "Perfume",
+        "name": "카르스트 오 드 퍼퓸",
+        "description": "주니퍼, 쿠민, 샌달우드",
+        "variants": [
+            {
+                "capacity": "50 mL",
+                "price": 225000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw8f435fe1/images/products/FR22/Aesop_Fragrance_Karst_Eau_de_Parfum_50mL_Bottle_Only_Media_Release_Transparent_1080x1080px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 94,
+        "classifications": [
+            {
+                "category": "Fragrance",
+                "subcategory": "Fresh"
+            }
+        ]
+    },
+    {
+        "category": "Perfume",
+        "name": "미라세티 오 드 퍼퓸",
+        "description": "라다넘, 암브레트, 스타이어랙스",
+        "variants": [
+            {
+                "capacity": "50 mL",
+                "price": 225000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw6124f67b/images/products/FR23/Aesop_Fragrance_Miraceti_Eau_de_Parfum_50mL_Bottle_Only_Media_Release_Transparent_1080x1080px.png"
+            }
+        ],
+        "badge": [],
+        "newestId": 110,
+        "status": true,
+        "popularId": 112,
+        "classifications": [
+            {
+                "category": "Fragrance",
+                "subcategory": "Opulent"
+            }
+        ]
+    },
+    {
+        "newestId": 18,
+        "category": "Perfume",
+        "name": "우라논 오 드 퍼퓸",
+        "description": "프랑킨센스, 헤이, 미르",
+        "variants": [
+            {
+                "capacity": "50 mL",
+                "price": 225000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dwdc858066/images/products/FR28/Aesop_Fragrance_Ouranon_Eau_de_Parfum_50mL_Bottle_Only_Media_Release_Transparent_1080x1080px.png"
+            }
+        ],
+        "badge": ["New"],
+        "status": true,
+        "popularId": 62,
+        "classifications": [
+            {
+                "category": "Fragrance",
+                "subcategory": "Woody"
+            }
+        ]
+    },
+    {
+        "category": "Perfume",
+        "name": "글롬 오 드 퍼퓸",
+        "description": "미모사, 사프란, 아이리스",
+        "variants": [
+            {
+                "capacity": "50 mL",
+                "price": 225000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw9dc2c838/images/products/FR27/Aesop_Fragrance_Gloam_Eau_de_Parfum_50mL_Bottle_Only_Media_Release_Transparent_1080x1080px.png"
+            }
+        ],
+        "badge": [],
+        "newestId": 111,
+        "status": true,
+        "popularId": 113,
+        "classifications": [
+            {
+                "category": "Fragrance",
+                "subcategory": "Floral"
+            }
+        ]
+    },
+    {
+        "newestId": 53,
+        "category": "HAND & BODY",
+        "name": "레저렉션 아로마틱 핸드 밤",
+        "description": "시트러스, 우드, 허브",
+        "variants": [
+            {
+                "capacity": "75 mL",
+                "price": 39000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dwfbbdd53d/images/products/BM06/Aesop_Hand_Resurrection_Aromatique_Hand_Balm_75mL_Web_Front_A_2000x2000px.png"
+            },
+            {
+                "capacity": "500 mL",
+                "price": 39000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dwfbbdd53d/images/products/BM06/Aesop_Hand_Resurrection_Aromatique_Hand_Balm_75mL_Web_Front_A_2000x2000px.png"
+            }
+        ],
+        "badge": ["Best"],
+        "status": true,
+        "popularId": 1,
+        "classifications": [
+            {
+                "category": "Hand & body",
+                "subcategory": "Hand wash & balms"
+            }
+        ]
+    },
+    {
+        "newestId": 25,
+        "category": "KITS",
+        "name": "레저렉션 듀엣",
+        "description": "시트러스, 우디, 허브 아로마가 어우러진 탁월한 핸드 케어 2종",
+        "variants": [
+            {
+                "capacity": "키트",
+                "price": 170000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw58c7aa80/images/products/APB73/Aesop_Kits_Resurrection_Duet_Web_Front_A_2000x2000px.png"
+            }
+        ],
+        "badge": ["New"],
+        "status": true,
+        "popularId": 39,
+        "classifications": [
+            {
+                "category": "Kits",
+                "subcategory": "Hand & body kits"
+            }
+        ]
+    },
+    {
+        "newestId": 14,
+        "category": "HAND & BODY",
+        "name": "엘레오스 아로마틱 핸드 밤",
+        "description": "허브, 우디, 스파이시",
+        "variants": [
+            {
+                "capacity": "75 mL",
+                "price": 39000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw73d5d0c4/images/products/BM18/Aesop_Hand_Eleos_Aromatique_Hand_Balm_75mL_Web_Front_A_2000x2000px.png"
+            },
+            {
+                "capacity": "500 mL",
+                "price": 39000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw73d5d0c4/images/products/BM18/Aesop_Hand_Eleos_Aromatique_Hand_Balm_75mL_Web_Front_A_2000x2000px.png"
+            }
+        ],
+        "badge": ["New", "Best"],
+        "status": true,
+        "popularId": 6,
+        "classifications": [
+            {
+                "category": "Hand & body",
+                "subcategory": "Hand wash & balms"
+            }
+        ]
+    },
+    {
+        "newestId": 46,
+        "category": "HAND & BODY",
+        "name": "레버런스 아로마틱 핸드 워시",
+        "description": "부드러운 손 세정을 선사하는 투명하고 거품이 적은 클렌징 젤",
+        "variants": [
+            {
+                "capacity": "500 mL (펌프 포함)",
+                "price": 56000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dwfce24fa1/images/products/BT17/Aesop_Hand_Reverence_Aromatique_Hand_Wash_500mL_Web_Front_2000x2000px.png"
+            },
+            {
+                "capacity": "500 mL (펌프 미포함)",
+                "price": 56000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dwfce24fa1/images/products/BT17/Aesop_Hand_Reverence_Aromatique_Hand_Wash_500mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["Best"],
+        "status": true,
+        "popularId": 4,
+        "classifications": [
+            {
+                "category": "Hand & body",
+                "subcategory": "Hand wash & balms"
+            }
+        ]
+    },
+    {
+        "newestId": 5,
+        "category": "KITS",
+        "name": "디그니티 인 더 래버토리",
+        "description": "화장실을 위한 프래그런스 듀오",
+        "variants": [
+            {
+                "capacity": "키트",
+                "price": 111000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw59d7e63a/images/products/APB368KR/Aesop_Kits_Gift_Kits_2025-26_Dignity_in_the_Lavatory_NGL_Baseline_2000x2000px.png"
+            }
+        ],
+        "badge": ["New"],
+        "status": true,
+        "popularId": 58,
+        "classifications": [
+            {
+                "category": "Kits",
+                "subcategory": "Fragrance kits"
+            }
+        ]
+    },
+    {
+        "newestId": 3,
+        "category": "KITS",
+        "name": "배쓰룸 어번던스",
+        "description": "향기로운 핸드 & 홈 케어 앙상블",
+        "variants": [
+            {
+                "capacity": "키트",
+                "price": 163000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwb1d2d5bc/images/products/APB371K/Aesop_Kits_Gift_Kits_2025-26_Bathroom_Abundance_GL_NGL_Baseline_2000x2000px.png"
+            }
+        ],
+        "badge": ["New", "Best"],
+        "status": true,
+        "popularId": 28,
+        "classifications": [
+            {
+                "category": "Kits",
+                "subcategory": "Fragrance kits"
+            },
+            {
+                "category": "Kits",
+                "subcategory": "Hand & body kits"
+            }
+        ]
+    },
+    {
+        "newestId": 4,
+        "category": "KITS",
+        "name": "파티 인 더 그린하우스",
+        "description": "바디 케어를 위한 제라늄 리프 트리오",
+        "variants": [
+            {
+                "capacity": "키트",
+                "price": 141000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw79d6f0aa/images/products/APB370KR/Aesop_Kits_Gift_Kits_2025-26_Party_in_the_Greenhouse_GL_NGL_Baseline_2000x2000px.png"
+            }
+        ],
+        "badge": ["New", "Best"],
+        "status": true,
+        "popularId": 21,
+        "classifications": [
+            {
+                "category": "Kits",
+                "subcategory": "Hand & body kits"
+            }
+        ]
+    },
+    {
+        "newestId": 6,
+        "category": "KITS",
+        "name": "샤워 룸 세레나데",
+        "description": "건조한 손과 몸을 위한 엘레오스 듀오",
+        "variants": [
+            {
+                "capacity": "키트",
+                "price": 80000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw93c62d72/images/products/APB365KR/Aesop_Kits_Gift_Kits_2025-26_Shower_Room_Serenades_GL_NGL_Baseline_2000x2000px.png"
+            }
+        ],
+        "badge": ["New"],
+        "status": true,
+        "popularId": 59,
+        "classifications": [
+            {
+                "category": "Kits",
+                "subcategory": "Hand & body kits"
+            }
+        ]
+    },
+    {
+        "category": "KITS",
+        "name": "라이브러리 오브 아로마",
+        "description": "테싯 프래그런스 듀오",
+        "variants": [
+            {
+                "capacity": "키트",
+                "price": 213000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwb8f45dbc/images/products/APB373KR/Aesop_Kits_Gift_Kits_2025-26_Library_of_Aromas_GL_NGL_Baseline_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "newestId": 112,
+        "status": true,
+        "popularId": 114,
+        "classifications": [
+            {
+                "category": "Kits",
+                "subcategory": "Fragrance kits"
+            }
+        ]
+    },
+    {
+        "category": "KITS",
+        "name": "이솝 어보드",
+        "description": "13가지 제품을 담은 풍성한 선물",
+        "variants": [
+            {
+                "capacity": "키트",
+                "price": 699000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwf69527bf/images/products/APB398EU/Aesop_Kits_Aesop_Abode_GL_NGL_1B_Open_with_Products_Centre_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "newestId": 113,
+        "status": true,
+        "popularId": 115,
+        "classifications": [
+            {
+                "category": "Kits",
+                "subcategory": "Skin care kits"
+            },
+            {
+                "category": "Kits",
+                "subcategory": "Hand & body kits"
+            },
+            {
+                "category": "Kits",
+                "subcategory": "Fragrance kits"
+            }
+        ]
+    },
+    {
+        "newestId": 24,
+        "category": "KITS",
+        "name": "제라늄 리프 듀엣",
+        "description": "바디 클렌징과 수분 공급을 위한 그린, 시트러스, 상쾌한 향이 돋보이는 제품 2종",
+        "variants": [
+            {
+                "capacity": "키트",
+                "price": 175000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw5f8ba5cb/images/products/APB74/Aesop_Kits_Geranium_Leaf_Duet_Web_Front_A_2000x2000px.png"
+            }
+        ],
+        "badge": ["New"],
+        "status": true,
+        "popularId": 31,
+        "classifications": [
+            {
+                "category": "Kits",
+                "subcategory": "Hand & body kits"
+            }
+        ]
+    },
+    {
+        "newestId": 37,
+        "category": "KITS",
+        "name": "어라이벌",
+        "description": "열성적인 탐험가를 위한 편리한 4종 제품",
+        "variants": [
+            {
+                "capacity": "키트",
+                "price": 49000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwfc7011ff/images/products/APB284/Aesop_Kits_Arrival_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["Best"],
+        "status": true,
+        "popularId": 17,
+        "classifications": [
+            {
+                "category": "Kits",
+                "subcategory": "Hand & body kits"
+            },
+            {
+                "category": "Kits",
+                "subcategory": "Travel kits"
+            }
+        ]
+    },
+    {
+        "newestId": 70,
+        "category": "HAND & BODY",
+        "name": "진저 플라이트",
+        "description": "마음을 진정시키는 롤-온 타입의 펄스 포인트 관리",
+        "variants": [
+            {
+                "capacity": "10 mL",
+                "price": 45000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw27096cde/images/products/VL02/Aesop_Personal_Care_Ginger_Flight_Therapy_10mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["Best"],
+        "status": true,
+        "popularId": 19,
+        "classifications": [
+            {
+                "category": "Hand & body",
+                "subcategory": "Body balms & oils"
+            },
+            {
+                "category": "Home & living",
+                "subcategory": "Oils & burners"
+            }
+        ]
+    },
+    {
+        "newestId": 51,
+        "category": "HOME & LIVING",
+        "name": "올루스 아로마틱 룸 스프레이",
+        "description": "상쾌한, 우디, 시트러스",
+        "variants": [
+            {
+                "capacity": "100 mL",
+                "price": 77000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw6635b40a/images/products/FR19/Aesop_Home_Olous_Aromatique_Room_Spray_100mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["Best"],
+        "status": false,
+        "popularId": 9,
+        "classifications": [
+            {
+                "category": "Home & living",
+                "subcategory": "Room sprays"
+            }
+        ]
+    },
+    {
+        "newestId": 19,
+        "category": "HOME & LIVING",
+        "name": "브론즈 인센스 홀더",
+        "description": "보겔 스튜디오 디자인",
+        "variants": [
+            {
+                "capacity": "90 mm x 145 mm x 34 mm",
+                "price": 204000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwee511358/images/products/AHM16/Aesop_Home_Bronze_Incense_Holder_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["New"],
+        "status": true,
+        "popularId": 63,
+        "classifications": [
+            {
+                "category": "Home & living",
+                "subcategory": "Incense & holders"
+            }
+        ]
+    },
+    {
+        "newestId": 47,
+        "category": "KITS",
+        "name": "존재의 상태: 아로마틱 룸 스프레이 트리오",
+        "description": "공간을 한층 더 아름답게 만들어 주는 세 가지 제품",
+        "variants": [
+            {
+                "capacity": "키트",
+                "price": 128000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw7f5c6466/images/products/APB230/Aesop_Kits_States_of_Being_Aromatique_Room_Spray_Trio_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 74,
+        "classifications": [
+            {
+                "category": "Kits",
+                "subcategory": "Fragrance kits"
+            },
+            {
+                "category": "Home & living",
+                "subcategory": "Room sprays"
+            }
+        ]
+    },
+    {
+        "newestId": 64,
+        "category": "HOME & LIVING",
+        "name": "브라스 오일 버너",
+        "description": "헨리 윌슨 스튜디오와 협업으로 디자인",
+        "variants": [
+            {
+                "capacity": "157mm x 125mm x 108mm",
+                "price": 252000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwe1834385/images/products/AHM01/Aesop_Home_Brass_Oil_Burner_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["Best"],
+        "status": true,
+        "popularId": 23,
+        "classifications": [
+            {
+                "category": "Home & living",
+                "subcategory": "Oils & burners"
+            }
+        ]
+    },
+    {
+        "newestId": 13,
+        "category": "HOME & LIVING",
+        "name": "캐서린 오일 버너 블렌드",
+        "description": "스파이시, 따뜻한, 시트러스",
+        "variants": [
+            {
+                "capacity": "25 mL",
+                "price": 48000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw66171fd7/images/products/BB01/Aesop_Home_Catherine_Oil_Burner_Blend_25mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["New", "Best"],
+        "status": true,
+        "popularId": 29,
+        "classifications": [
+            {
+                "category": "Home & living",
+                "subcategory": "Oils & burners"
+            }
+        ]
+    },
+    {
+        "newestId": 49,
+        "category": "HOME & LIVING",
+        "name": "카게로우 아로마틱 인센스",
+        "description": "그린, 허브, 우디",
+        "variants": [
+            {
+                "capacity": "33개",
+                "price": 48000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw06aac3e8/images/products/HM14/Aesop_Home_Kagerou_Aromatique_Incense_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["Best"],
+        "status": true,
+        "popularId": 10,
+        "classifications": [
+            {
+                "category": "Home & living",
+                "subcategory": "Incense & holders"
+            }
+        ]
+    },
+    {
+        "newestId": 82,
+        "category": "HAND & BODY",
+        "name": "레버런스 아로마틱 핸드 밤",
+        "description": "우드, 흙내음, 스모키",
+        "variants": [
+            {
+                "capacity": "75 mL",
+                "price": 39000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw71c9f431/images/products/BM13/Aesop_Hand_Reverence_Aromatique_Hand_Balm_75mL_Web_Front_A_2000x2000px.png"
+            },
+            {
+                "capacity": "500 mL",
+                "price": 39000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw71c9f431/images/products/BM13/Aesop_Hand_Reverence_Aromatique_Hand_Balm_75mL_Web_Front_A_2000x2000px.png"
+            }
+        ],
+        "badge": ["Best"],
+        "status": true,
+        "popularId": 7,
+        "classifications": [
+            {
+                "category": "Hand & body",
+                "subcategory": "Hand wash & balms"
+            }
+        ]
+    },
+    {
+        "newestId": 61,
+        "category": "HOME & LIVING",
+        "name": "아가니스 아로마틱 캔들",
+        "description": "플로럴, 스파이시, 상쾌한",
+        "variants": [
+            {
+                "capacity": "300 g",
+                "price": 138000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwc72551b1/images/products/HM03/Aesop_Home_Aganice_Aromatique_Candle_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 45,
+        "classifications": [
+            {
+                "category": "Home & living",
+                "subcategory": "Candles"
+            }
+        ]
+    },
+    {
+        "newestId": 63,
+        "category": "HOME & LIVING",
+        "name": "프톨레미 아로마틱 캔들",
+        "description": "우디, 흙 내음, 유향",
+        "variants": [
+            {
+                "capacity": "300 g",
+                "price": 138000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwde74138b/images/products/HM02/Aesop_Home_Ptolemy_Aromatique_Candle_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": false,
+        "popularId": 82,
+        "classifications": [
+            {
+                "category": "Home & living",
+                "subcategory": "Candles"
+            }
+        ]
+    },
+    {
+        "newestId": 52,
+        "category": "HOME & LIVING",
+        "name": "이스트로스 아로마틱 룸 스프레이",
+        "description": "생기 넘치는, 플로랄, 스모키",
+        "variants": [
+            {
+                "capacity": "100 mL",
+                "price": 77000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw6b216180/images/products/FR17/Aesop_Home_Istros_Aromatique_Room_Spray_100mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 76,
+        "classifications": [
+            {
+                "category": "Home & living",
+                "subcategory": "Room sprays"
+            }
+        ]
+    },
+    {
+        "newestId": 60,
+        "category": "HOME & LIVING",
+        "name": "키테라 아로마틱 룸 스프레이",
+        "description": "우디, 풍부한, 스파이시",
+        "variants": [
+            {
+                "capacity": "100 mL",
+                "price": 77000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwa7a7179b/images/products/FR18/Aesop_Home_Cythera_Aromatique_Room_Spray_100mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["Best"],
+        "status": true,
+        "popularId": 22,
+        "classifications": [
+            {
+                "category": "Home & living",
+                "subcategory": "Room sprays"
+            }
+        ]
+    },
+    {
+        "category": "KITS",
+        "name": "헬핑 핸즈 트리오",
+        "description": "수고한 손을 부드럽게 가꿔주는 핸드 밤 3종",
+        "variants": [
+            {
+                "capacity": "키트",
+                "price": 59000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw521ac5db/images/products/APB391KR/Aesop_Kits_Gift_Kits_2025-26_Helping_Hands_Trio_GL_NGL_Baseline_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "newestId": 114,
+        "status": true,
+        "popularId": 116,
+        "classifications": [
+            {
+                "category": "Kits",
+                "subcategory": "Hand & body kits"
+            }
+        ]
+    },
+    {
+        "category": "KITS",
+        "name": "투 매니 쿡스 인 더 키친",
+        "description": "싱크대 필수 핸드 케어 3종",
+        "variants": [
+            {
+                "capacity": "키트",
+                "price": 113000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw63e7acc1/images/products/APB367KR/Aesop_Kits_Gift_Kits_2025-26_Too_Many_Cooks_in_the_Kitchen_GL_NGL_Baseline_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "newestId": 115,
+        "status": true,
+        "popularId": 117,
+        "classifications": [
+            {
+                "category": "Kits",
+                "subcategory": "Hand & body kits"
+            }
+        ]
+    },
+    {
+        "category": "KITS",
+        "name": "그리팅스 인 더 게스트룸",
+        "description": "사랑받는 핸드 및 바디 케어 제품 2종",
+        "variants": [
+            {
+                "capacity": "키트",
+                "price": 57000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwf4547d1d/images/products/APB364KR/Aesop_Kits_Gift_Kits_2025-26_Greetings_in_the_Guestroom_GL_NGL_Baseline_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "newestId": 116,
+        "status": true,
+        "popularId": 118,
+        "classifications": [
+            {
+                "category": "Kits",
+                "subcategory": "Hand & body kits"
+            }
+        ]
+    },
+    {
+        "newestId": 23,
+        "category": "KITS",
+        "name": "레버런스 듀엣",
+        "description": "손을 부드럽게 가꿔주며 따뜻하고 우디한 아로마를 선사하는 핸드 케어 듀엣",
+        "variants": [
+            {
+                "capacity": "키트",
+                "price": 170000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw942e9045/images/products/APB109/Aesop_Kits_Reverence_Duet_Web_Front_A_2000x2000px.png"
+            }
+        ],
+        "badge": ["New", "Best"],
+        "status": true,
+        "popularId": 30,
+        "classifications": [
+            {
+                "category": "Kits",
+                "subcategory": "Hand & body kits"
+            }
+        ]
+    },
+    {
+        "newestId": 62,
+        "category": "HOME & LIVING",
+        "name": "칼리푸스 아로마틱 캔들",
+        "description": "우디, 흙 내음, 그린",
+        "variants": [
+            {
+                "capacity": "300 g",
+                "price": 138000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw27eea456/images/products/HM04/Aesop_Home_Callippus_Aromatique_Candle_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": false,
+        "popularId": 81,
+        "classifications": [
+            {
+                "category": "Home & living",
+                "subcategory": "Candles"
+            }
+        ]
+    },
+    {
+        "newestId": 48,
+        "category": "HOME & LIVING",
+        "name": "사라시나 아로마틱 인센스",
+        "description": "우디, 따뜻한, 달콤한",
+        "variants": [
+            {
+                "capacity": "33개",
+                "price": 48000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw3cfa0024/images/products/HM15/Aesop_Home_Sarashina_Aromatique_Incense_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["Best"],
+        "status": true,
+        "popularId": 18,
+        "classifications": [
+            {
+                "category": "Home & living",
+                "subcategory": "Incense & holders"
+            }
+        ]
+    },
+    {
+        "newestId": 50,
+        "category": "HOME & LIVING",
+        "name": "무라사키 아로마틱 인센스",
+        "description": "우디, 스파이시, 유향",
+        "variants": [
+            {
+                "capacity": "33개",
+                "price": 48000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw8a966bcc/images/products/HM13/Aesop_Home_Murasaki_Aromatique_Incense_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": false,
+        "popularId": 75,
+        "classifications": [
+            {
+                "category": "Home & living",
+                "subcategory": "Incense & holders"
+            }
+        ]
+    },
+    {
+        "newestId": 45,
+        "category": "HOME & LIVING",
+        "name": "포스트-푸 드롭스",
+        "description": "시트러스, 플로럴, 상쾌한",
+        "variants": [
+            {
+                "capacity": "100mL",
+                "price": 43000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw56510330/images/products/FR16/Aesop_Home_Post-Poo_Drops_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": true,
+        "popularId": 32,
+        "classifications": [
+            {
+                "category": "Home & living",
+                "subcategory": "Bathroom"
+            }
+        ]
+    },
+    {
+        "newestId": 31,
+        "category": "KITS",
+        "name": "서울",
+        "description": "대표적인 파슬리 씨드 스킨 케어 제품으로 구성",
+        "variants": [
+            {
+                "capacity": "키트",
+                "price": 98000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dw4abc5b66/images/products/APB289KR/Aesop_Kits_Seoul_Web_Large_2000x2000px.png"
+            }
+        ],
+        "badge": [],
+        "status": false,
+        "popularId": 68,
+        "classifications": [
+            {
+                "category": "Kits",
+                "subcategory": "Skin care kits"
+            },
+            {
+                "category": "Kits",
+                "subcategory": "Hand & body kits"
+            },
+            {
+                "category": "Kits",
+                "subcategory": "Travel kits"
+            }
+        ]
+    },
+    {
+        "newestId": 16,
+        "category": "HOME & LIVING",
+        "name": "베아트리체 오일 버너 블렌드",
+        "description": "우디, 시트러스, 스모키",
+        "variants": [
+            {
+                "capacity": "25 mL",
+                "price": 48000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dwf5f438ff/images/products/BB21/Aesop_Home_Beatrice_Oil_Burner_Blend_25mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["New", "Best"],
+        "status": true,
+        "popularId": 13,
+        "classifications": [
+            {
+                "category": "Home & living",
+                "subcategory": "Oils & burners"
+            }
+        ]
+    },
+    {
+        "newestId": 38,
+        "category": "HAND & BODY",
+        "name": "제라늄 리프 바디 클렌저",
+        "description": "그린, 시트러스, 상쾌함",
+        "variants": [
+            {
+                "capacity": "500 mL (펌프 미포함)",
+                "price": 59000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dwc9da3354/images/products/BT11/Aesop_Body_Geranium_Leaf_Body_Cleanser_500mL_Web_Front_2000x2000px.png"
+            },
+            {
+                "capacity": "100 mL",
+                "price": 59000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dwc9da3354/images/products/BT11/Aesop_Body_Geranium_Leaf_Body_Cleanser_500mL_Web_Front_2000x2000px.png"
+            },
+            {
+                "capacity": "500 mL",
+                "price": 59000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dwc9da3354/images/products/BT11/Aesop_Body_Geranium_Leaf_Body_Cleanser_500mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["Best"],
+        "status": true,
+        "popularId": 3,
+        "classifications": [
+            {
+                "category": "Hand & body",
+                "subcategory": "Body cleansers"
+            }
+        ]
+    },
+    {
+        "newestId": 80,
+        "category": "HAND & BODY",
+        "name": "데오도란트",
+        "description": "우디, 허브, 흙내음",
+        "variants": [
+            {
+                "capacity": "50 mL",
+                "price": 46000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/ko_KR/dwc5aaa7bd/images/products/BS14/Aesop_Personal_Care_Deodorant_50mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["Best"],
+        "status": true,
+        "popularId": 25,
+        "classifications": [
+            {
+                "category": "Hand & body",
+                "subcategory": "Deodorants"
+            }
+        ]
+    },
+    {
+        "newestId": 79,
+        "category": "HAND & BODY",
+        "name": "허벌 데오도란트",
+        "description": "허브향, 캠포릭, 상쾌함",
+        "variants": [
+            {
+                "capacity": "50 mL",
+                "price": 46000,
+                "image": "https://kr.aesop.com/dw/image/v2/AARM_PRD/on/demandware.static/-/Sites-aesop-master-catalog/default/dw3acee4c5/images/products/BS24/Aesop_Personal_Care_Herbal_Deodorant_50mL_Web_Front_2000x2000px.png"
+            }
+        ],
+        "badge": ["Best"],
+        "status": true,
+        "popularId": 20,
+        "classifications": [
+            {
+                "category": "Hand & body",
+                "subcategory": "Deodorants"
+            }
+        ]
+    }
+],
+
+"giftFilters": [
+    {
+      "filterId": "housewarming",
+      "filterName": "집들이",
+      "recommendedProducts": [
+        "디그니티 인 더 래버토리",
+        "배쓰룸 어번던스",
+        "존재의 상태: 아로마틱 룸 스프레이 트리오",
+        "레저렉션 듀엣",
+        "레버런스 듀엣",
+        "투 매니 쿡스 인 더 키친",
+        "샤워 룸 세레나데",
+        "그리팅스 인 더 게스트룸",
+        "제라늄 리프 듀엣",
+        "파티 인 더 그린하우스"
+      ]
+    },
+    {
+      "filterId": "business",
+      "filterName": "비즈니스용",
+      "recommendedProducts": [
+        "레저렉션 듀엣",
+        "레버런스 듀엣",
+        "헬핑 핸즈 트리오",
+        "포스트-푸 드롭스",
+        "캐서린 오일 버너 블렌드",
+        "베아트리체 오일 버너 블렌드",
+        "존재의 상태: 아로마틱 룸 스프레이 트리오",
+        "카게로우 아로마틱 인센스",
+        "무라사키 아로마틱 인센스",
+        "사라시나 아로마틱 인센스",
+        "프톨레미 아로마틱 캔들",
+        "아가니스 아로마틱 캔들",
+        "칼리푸스 아로마틱 캔들"
+      ]
+    },
+    {
+      "filterId": "birthday-anniversary",
+      "filterName": "생일/기념일",
+      "recommendedProducts": [
+        "라이브러리 오브 아로마",
+        "프래그런스 앤솔러지 볼륨 I",
+        "프톨레미 아로마틱 캔들",
+        "아가니스 아로마틱 캔들",
+        "칼리푸스 아로마틱 캔들",
+        "카게로우 아로마틱 인센스",
+        "무라사키 아로마틱 인센스",
+        "사라시나 아로마틱 인센스",
+        "존재의 상태: 아로마틱 룸 스프레이 트리오",
+        "디그니티 인 더 래버토리",
+        "제라늄 리프 듀엣",
+        "파티 인 더 그린하우스",
+        "파슬리 씨드 안티 옥시던트 인텐스 세럼",
+        "파슬리 씨드 안티 옥시던트 스킨 케어 키트",
+        "퀜치: 클래식 스킨 케어 키트",
+        "밸런스: 클래식 스킨 케어 키트",
+        "캐서린 오일 버너 블렌드",
+        "베아트리체 오일 버너 블렌드",
+        "진저 플라이트"
+      ]
+    },
+    {
+      "filterId": "for-me",
+      "filterName": "나를 위한 선물",
+      "recommendedProducts": [
+        "라이브러리 오브 아로마",
+        "프래그런스 앤솔러지 볼륨 I",
+        "존재의 상태: 아로마틱 룸 스프레이 트리오",
+        "카게로우 아로마틱 인센스",
+        "무라사키 아로마틱 인센스",
+        "사라시나 아로마틱 인센스",
+        "프톨레미 아로마틱 캔들",
+        "아가니스 아로마틱 캔들",
+        "칼리푸스 아로마틱 캔들",
+        "캐서린 오일 버너 블렌드",
+        "베아트리체 오일 버너 블렌드",
+        "진저 플라이트",
+        "제라늄 리프 듀엣",
+        "파티 인 더 그린하우스",
+        "샤워 룸 세레나데",
+        "그리팅스 인 더 게스트룸",
+        "파슬리 씨드 안티 옥시던트 인텐스 세럼",
+        "파슬리 씨드 안티 옥시던트 스킨 케어 키트",
+        "퀜치: 클래식 스킨 케어 키트",
+        "밸런스: 클래식 스킨 케어 키트",
+        "어라이벌",
+        "서울"
+      ]
+    },
+    {
+      "filterId": "for-travel",
+      "filterName": "여행용",
+      "recommendedProducts": [
+        "어라이벌",
+        "서울"
+      ]
+    },
+    {
+      "filterId": "for-skin",
+      "filterName": "피부 관리",
+      "recommendedProducts": [
+        "파슬리 씨드 안티 옥시던트 인텐스 세럼",
+        "파슬리 씨드 안티 옥시던트 스킨 케어 키트",
+        "퀜치: 클래식 스킨 케어 키트",
+        "밸런스: 클래식 스킨 케어 키트"
+      ]
+    },
+    {
+      "filterId": "for-stress",
+      "filterName": "스트레스 완화",
+      "recommendedProducts": [
+        "진저 플라이트",
+        "캐서린 오일 버너 블렌드",
+        "베아트리체 오일 버너 블렌드",
+        "카게로우 아로마틱 인센스",
+        "무라사키 아로마틱 인센스",
+        "사라시나 아로마틱 인센스",
+        "프톨레미 아로마틱 캔들",
+        "아가니스 아로마틱 캔들",
+        "칼리푸스 아로마틱 캔들"
+      ]
+    },
+    {
+      "filterId": "for-men",
+      "filterName": "남성제품",
+      "recommendedProducts": [
+        "모로칸 네롤리 쉐이빙 듀엣",
+        "모로칸 네롤리 쉐이빙 세럼",
+        "더블-엣지 레이저 블레이드",
+        "더블 엣지 레이저",
+        "스테인리스 스틸 보울",
+        "쉐이빙 브러쉬"
+      ]
+    },
+    {
+      "filterId": "for-scent-lover",
+      "filterName": "향 위주",
+      "recommendedProducts": [
+        "라이브러리 오브 아로마",
+        "프래그런스 앤솔러지 볼륨 I",
+        "존재의 상태: 아로마틱 룸 스프레이 트리오",
+        "카게로우 아로마틱 인센스",
+        "무라사키 아로마틱 인센스",
+        "사라시나 아로마틱 인센스",
+        "프톨레미 아로마틱 캔들",
+        "아가니스 아로마틱 캔들",
+        "칼리푸스 아로마틱 캔들",
+        "캐서린 오일 버너 블렌드",
+        "베아트리체 오일 버너 블렌드"
+      ]
+    }
+  ]
+}
+

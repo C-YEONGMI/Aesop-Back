@@ -1,0 +1,26 @@
+{
+  "name": "aesop-server",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js",
+    "seed": "node scripts/seed-products.js",
+    "sync:products": "node scripts/sync-products.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.19.2",
+    "morgan": "^1.10.0",
+    "puppeteer": "^24.38.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
